@@ -1,0 +1,7 @@
+C2H2F4_1112tetrafluoroethane -1.7425 0.9769 380.00 172 361
+C2HF5_pentafluoroethane -1.7216 0.965 342.00 170 325
+C2H3F3_111trifluoroethane -1.7049 0.9726 346.25 162 329
+CH2F2_difluoromethane -1.519 1.0688 351.60 137 334
+
+
+
